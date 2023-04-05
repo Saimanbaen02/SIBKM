@@ -1,0 +1,22 @@
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\Connection 1.exe
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\Connection 1.deps.json
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\Connection 1.runtimeconfig.json
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\Connection 1.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\Connection 1.pdb
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.csproj.CopyComplete
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\refint\Connection 1.dll
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.pdb
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\Connection 1.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\OOP SIBKM\Connection 1\obj\Debug\net6.0\ref\Connection 1.dll
