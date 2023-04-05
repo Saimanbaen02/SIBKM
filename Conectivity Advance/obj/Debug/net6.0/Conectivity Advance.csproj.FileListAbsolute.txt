@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\OOP SIBKM\Conectivity Advance\obj\Debug\net6.0\Conectivity Advance.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OOP SIBKM\Conectivity Advance\obj\Debug\net6.0\Conectivity Advance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OOP SIBKM\Conectivity Advance\obj\Debug\net6.0\Conectivity Advance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OOP SIBKM\Conectivity Advance\obj\Debug\net6.0\Conectivity Advance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OOP SIBKM\Conectivity Advance\obj\Debug\net6.0\Conectivity Advance.csproj.CoreCompileInputs.cache
