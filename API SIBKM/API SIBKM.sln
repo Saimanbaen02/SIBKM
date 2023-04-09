@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API SIBKM", "API SIBKM\API SIBKM.csproj", "{2E09D0F0-1D8F-4818-A048-D639C91E27AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E09D0F0-1D8F-4818-A048-D639C91E27AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E09D0F0-1D8F-4818-A048-D639C91E27AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E09D0F0-1D8F-4818-A048-D639C91E27AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E09D0F0-1D8F-4818-A048-D639C91E27AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917925AD-6127-4F69-B3AF-7E186FB05211}
+	EndGlobalSection
+EndGlobal
